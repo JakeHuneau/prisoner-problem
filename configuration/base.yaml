@@ -1,0 +1,4 @@
+num_prisoners: 1000
+num_guesses: 500
+num_runs: 1000000
+debug: false
